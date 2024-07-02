@@ -1,5 +1,6 @@
-# edu_Adaptive
-Adaptive materials
+<img src="practices/assets/logo.png" width="800">
+
+# Machine Learning Course
 
 Colab links:
  
