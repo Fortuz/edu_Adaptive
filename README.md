@@ -13,11 +13,11 @@ Colab links:
 [Lab 03: Logistic Regression](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L03%20-%20Logistic%20Regression.ipynb) <br>
 [Lab 03 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L03%20-%20Logistic%20Regression.ipynb)
 
-[Lab 04: Regularized Logistic Regression (NonLinear case)](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L04%20-%20Regularized%20Logistic%20Regression%20(Nonlinear%20case).ipynb) <br>
-[Lab 04 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L04%20-%20Regularized%20Logistic%20Regression%20(Nonlinear%20case).ipynb)
+[Lab 04: Regularized Logistic Regression (NonLinear case)](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L04%20-%20Regularized%20Logistic%20Regression%20(NonLinear%20case).ipynb) <br>
+[Lab 04 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L04%20-%20Regularized%20Logistic%20Regression%20(NonLinear%20case).ipynb)
 
-[Lab 05: Logistic Regression](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L05%20-%20Multi-class%20Classification%20-%20One%20vs%20All.ipynb) <br>
-[Lab 05 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L05%20-%20Multi-class%20Classification%20-%20One%20vs%20All.ipynb)
+[Lab 05: Logistic Regression](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L05%20-%20Logistic%20Regression.ipynb) <br>
+[Lab 05 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L05%20-%20Logistic%20Regression.ipynb)
 
 [Lab 06: Neural Networks Basics](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L06%20-%20Neural%20Networks%20Basics.ipynb) <br>
 [Lab 06 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L06%20-%20Neural%20Networks%20Basics.ipynb)
