@@ -4,7 +4,9 @@ Made by **Balázs Nagy**
 
 # Machine Learning Course
 
-This course aims to teach basic machine learning concepts and application.
+This course aims to teach basic machine learning concepts and application. Starting from Linear Regression introducing the basic math behind the concepts. Progressing through Multivariate Linear Regression and Logistic Regression. Introducing the idea of the Regularization and its usaege in different scenarios. Step through the barrier between Machine Learning and Neural Networks. Also showing some other techniques like SVM and K-Means and implementing a Spam filter as a fun and rewarding hands on practice.
+   
+The Lab exercise uses elements from Andrew Ng's Machine Learning course.
 
 # Colab links
  
