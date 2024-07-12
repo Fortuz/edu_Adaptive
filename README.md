@@ -5,7 +5,7 @@ Made by **Balázs Nagy**
 # Machine Learning Course
 
 This course aims to teach basic machine learning concepts and application. Starting from Linear Regression introducing the basic math behind the concepts. Progressing through Multivariate Linear Regression and Logistic Regression. Introducing the idea of the Regularization and its usaege in different scenarios. Step through the barrier between Machine Learning and Neural Networks. Also showing some other techniques like SVM and K-Means and implementing a Spam filter as a fun and rewarding hands on practice.
-   
+
 The Lab exercise uses elements from Andrew Ng's Machine Learning course.
 
 # Colab links
@@ -29,7 +29,7 @@ The Lab exercise uses elements from Andrew Ng's Machine Learning course.
 [Lab 06 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L06%20-%20Neural%20Networks%20Basics_solved.ipynb)
 
 [Lab 07: Neural Networks Train](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L07%20-%20Neural%20Networks%20Train.ipynb) <br>
-[Lab 07 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L07%20Neural%20Networks%20Train_solved.ipynb)
+[Lab 07 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L07%20-%20Neural%20Networks%20Train_solved.ipynb)
 
 [Lab 08: Regularization](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L08%20-%20Regularization.ipynb) <br>
 [Lab 08 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L08%20-%20Regularization_solved.ipynb)
