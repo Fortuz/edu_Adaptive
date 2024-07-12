@@ -1,8 +1,12 @@
 <img src="practices/assets/logo.png" width="800">
 
+Made by **Balázs Nagy**
+
 # Machine Learning Course
 
-Colab links:
+This course aims to teach basic machine learning concepts and application.
+
+# Colab links
  
 [Lab 01: Linear regression with one variable](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L01%20-%20Linear%20Regression%20with%20One%20Variable.ipynb) <br>
 [Lab 01 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L01%20-%20Linear%20Regression%20with%20One%20Variable_solved.ipynb)
