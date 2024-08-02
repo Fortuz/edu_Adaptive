@@ -8,7 +8,17 @@ This course aims to teach basic machine learning concepts and application. Start
 
 The Lab exercise uses elements from Andrew Ng's Machine Learning course.
 
-# Colab links
+# Material links
+
+## Lectures
+
+[Lecture 01 - Introduction](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_01_Intro.pdf)
+[Lecture 02 - Linear regression](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_02_Linear%20regression.pdf)
+[Lecture 03 - Logistic regression](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_03_Logistic%20regression.pdf)
+[Lecture 04 - Regularization](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_04_Regularization.pdf)
+[Lecture 05 - Neural Networks](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_05_Neural%20Networks.pdf)
+
+## Labors
  
 [Lab 00: Python basics](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L00%20-%20Python%20Basics.ipynb) 
 
