@@ -12,11 +12,11 @@ The Lab exercise uses elements from Andrew Ng's Machine Learning course.
 
 ## Lectures
 
-[Lecture 01 - Introduction](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_01_Intro.pdf)
-[Lecture 02 - Linear regression](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_02_Linear%20regression.pdf)
-[Lecture 03 - Logistic regression](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_03_Logistic%20regression.pdf)
-[Lecture 04 - Regularization](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_04_Regularization.pdf)
-[Lecture 05 - Neural Networks](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_05_Neural%20Networks.pdf)
+[Lecture 01 - Introduction](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_01_Intro.pdf) <br>
+[Lecture 02 - Linear regression](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_02_Linear%20regression.pdf) <br>
+[Lecture 03 - Logistic regression](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_03_Logistic%20regression.pdf) <br>
+[Lecture 04 - Regularization](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_04_Regularization.pdf) <br>
+[Lecture 05 - Neural Networks](https://github.com/Fortuz/edu_Adaptive/blob/main/lectures/ML_05_Neural%20Networks.pdf) <br>
 
 ## Labors
  
