@@ -10,6 +10,8 @@ The Lab exercise uses elements from Andrew Ng's Machine Learning course.
 
 # Colab links
  
+[Lab 00: Python basics](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L00%20-%20Python%20Basics.ipynb) 
+
 [Lab 01: Linear regression with one variable](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L01%20-%20Linear%20Regression%20with%20One%20Variable.ipynb) <br>
 [Lab 01 solved](https://colab.research.google.com/github/Fortuz/edu_Adaptive/blob/main/practices/L01%20-%20Linear%20Regression%20with%20One%20Variable_solved.ipynb)
 
